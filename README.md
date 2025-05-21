@@ -1,18 +1,37 @@
-#💬 Social Media Chat App
-A fully responsive social media chat application built using HTML, CSS, and JavaScript that mimics the front-end interface of popular platforms like Facebook Messenger. Designed to provide users with a seamless messaging experience, the app features a real-time chat UI, friend list panel, status updates, and modern responsive layout optimized for both desktop and mobile screens.
+💬 Social Media Chat App
+
+A responsive front-end social media chat interface built using HTML, CSS, and JavaScript. It includes two main pages — Home and Profile — and supports a sleek Dark Mode toggle for better user experience.
+
+🚀 Features
+🏠 Home Page – Chat UI with friend list and message panel
+
+👤 Profile Page – View user information and status
+
+🌙 Dark Mode – Toggle between light and dark themes
+
+📱 Responsive Design – Works smoothly on all screen sizes
+
+📂 Pages
+index.html – Home/chat interface
+
+profile.html – User profile page
+
+🛠 Tech Stack
+HTML
+
+CSS (Flexbox, media queries, dark mode toggle)
+
+JavaScript (Dark mode logic, basic interactivity)
 
 
-📌 Features
-🧑‍🤝‍🧑 Friend List Panel – Displays user avatars, online/offline status, and last seen.
+📦 How to Run
+Clone the repo
 
-💬 Chat Interface – Clean and intuitive messaging UI with timestamped messages.
+Open index.html and profile.html in your browser
 
-🌐 Responsive Design – Mobile-first approach using Flexbox and media queries.
+🌟 Author
+Kuldeep Kumar – Dual Degree, IIT Kharagpur
 
-✨ Modern UI/UX – Facebook-inspired styling with smooth transitions and hover effects.
 
-🔐 Message Input Bar – Functional UI for typing and sending messages (simulated).
-
-📱 Adaptive Layout – Automatically adjusts to screen sizes and orientations.
 
 
